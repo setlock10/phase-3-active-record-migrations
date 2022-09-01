@@ -1,1 +1,4 @@
-# add the Artist class here
+require 'pry'
+# # app/models/artist.rb
+class Artist < ActiveRecord::Base
+end
